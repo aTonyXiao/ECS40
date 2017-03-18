@@ -1,0 +1,113 @@
+#! /bin/bash
+
+testingDirectory=/home/ssdavis/40/p4/Testing
+if [ $# -ne 1 ]; then
+  echo "testhw usage: testhw simulator_src_directory"
+  exit
+fi
+
+cd $1
+rm -f *.out *.o out*.txt &> /dev/null
+rm -f *Results.txt &> /dev/null
+
+echo "The const checker will be applied after the deadline, " > finalResults.txt
+echo " so you will receive a zero for const now. " >> finalResults.txt
+echo -n "Scores from p4 for " >> finalResults.txt
+
+if [ -e authors.txt ]; then
+  dos2unix authors.txt
+  awk {'for (i = 2; i <= NF; ++i) printf"%s ", $i'} authors.txt >> finalResults.txt
+  echo -e "\n"
+  awk 'NR < 3 {for (i = 2; i <= NF; ++i) printf"%s", $i; printf"\n";}' authors.txt > names.txt
+  echo -e "\nNote that names should be last name, then a comma, and then first name, e.g. Davis, Sean"  >> finalResults.txt
+  awk {'printf"%s ", $1'} authors.txt > addresses
+else
+  echo  "You need to create an authors.txt file!!!! No one will receive credit for this assignment"  >> finalResults.txt
+  echo "$1@ucdavis.edu" > addresses
+  finger ${PWD##*/} | awk 'NR == 1 {printf"%s,%s", $5, $4}' > names.txt
+fi
+
+
+echo -en "\nAddresses used: " >> finalResults.txt 
+
+cat addresses >> finalResults.txt
+echo " " >> finalResults.txt
+
+warningScore=0
+styleScore=0
+designScore=0
+constErrors=0
+operationsScore=0 
+
+make &> makeOutput
+
+if [ -e simulator.out ]; then
+  grep warning makeOutput >& warningResults.txt
+  warningScore=$(cat warningResults.txt | wc -l)
+  operationsScore=$( $testingDirectory/p4Tester.sh $PWD)
+fi
+
+/home/ssdavis/40/cppChecker.sh $PWD | awk '/Processing/,/Violated File Details/' > styleResults.txt
+designErrors=$( $testingDirectory/p4DesignChecker.sh $PWD )
+#constErrors=$( $testingDirectory/p4ConstChecker.sh $PWD )
+styleScore=$( awk '/Total Errors Occurs/ {printf"%d\n", 3 - $6}' styleResults.txt ) 
+
+if [[ $styleScore -lt 0 ]]; then
+  styleScore=0
+fi
+
+if [[ $warningScore -eq 0 ]]; then
+  echo "No warnings." > warningResults.txt
+fi
+
+if [ ! -e designResults.txt ]; then
+  echo "No design errors."  >> designResults.txt
+  designScore=9
+else
+  designScore=$(( 9 - `cat designResults.txt | wc -l` ))
+fi
+
+#if [[ $constErrors -eq 0 ]]; then
+#  echo "No const errors." >> constResults.txt
+#fi
+
+#constScore=$(( 5 - $constErrors ))
+constScore=0
+
+echo "Style: $styleScore out of 3" >> finalResults.txt
+echo "Design: $designScore out of 9" >> finalResults.txt
+echo "Const: $constScore out of 5" >> finalResults.txt
+echo "Operation: $operationsScore out of 13" >> finalResults.txt
+echo "Warnings (subtracted final score down to zero): $warningScore"  >> finalResults.txt
+
+if [ $designErrors -gt 0 ]; then
+  echo "You had fatal design errors listed in designResults.txt so you will receive a zero." >> finalResults.txt
+  finalScore=0
+else  # no fatal design errors
+  if [ $operationsScore -eq 0 ]; then
+    echo "Your program did not work so you will only receive points for design and consts." >> finalResults.txt
+    finalScore=$(( $constScore + $designScore ))
+  else  # works!
+    finalScore=$(($styleScore + $constScore + $designScore + $operationsScore - $warningScore))
+  fi  # if operation doesn't work
+fi # if fatal design errors
+
+if [ $finalScore -lt 0 ]; then
+  finalScore=0
+fi
+
+echo "Total: $finalScore out of 30.">> finalResults.txt
+
+
+#  mailx -s "ECS 40 P4 Test Results" -a designResults.txt -a styleResults.txt -a constResults.txt -a operationsResults.txt -a warningResults.txt `cat addresses` < finalResults.txt
+#  styleScore=0 
+
+# awk 'NR == 1 {printf"%s,", $0}' names.txt >> ../results.csv
+#echo " ${1%%/}, $finalScore,$constScore,$styleScore, $designScore, $operationsScore, $warningScore" >> ../results.csv
+#authorCount=$(grep "@" authors.txt | wc -l)
+
+#if [ $authorCount -gt 1 ]; then
+#  awk 'NR == 2 {printf"%s,", $0}' names.txt >> ../results.csv
+#  echo "${1%%/}, $finalScore,$constScore,$styleScore, $designScore, $operationsScore, $warningScore" >> ../results.csv
+#fi
+

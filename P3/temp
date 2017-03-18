@@ -1,0 +1,1 @@
+    City& operator = (const City &city1);

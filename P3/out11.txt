@@ -1,0 +1,59 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+
+Your choice (0 - 2): 
+Please enter two airport abbreviations (XXX XXX): TOO_LONG is not a valid airport.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+
+Your choice (0 - 2): 
+Please enter two airport abbreviations (XXX XXX): 1173 passengers fly the 339 miles from
+San Francisco, California to Los Angeles, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+
+Your choice (0 - 2): 
+Please enter two airport abbreviations (XXX XXX): TOO_LONG2 is not a valid airport.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+
+Your choice (0 - 2): 
+Please enter two airport abbreviations (XXX XXX): 1173 passengers fly the 339 miles from
+San Francisco, California to Los Angeles, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+
+Your choice (0 - 2): 
+Please enter two airport abbreviations (XXX XXX): TOO_LONG3 is not a valid airport.
+TOO_LONG4 is not a valid airport.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+
+Your choice (0 - 2): 
+Please enter two airport abbreviations (XXX XXX): 1173 passengers fly the 339 miles from
+San Francisco, California to Los Angeles, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+
+Your choice (0 - 2): 

@@ -1,0 +1,39 @@
+#! /bin/bash
+
+
+rm -f Makefile
+touch Makefile
+
+if [[ -z "$1" ]]
+then
+	echo Executable name required.;
+	echo usage: makemake.sh executable_name;
+
+else
+	str1=$1
+	shift
+
+# if [[ -z "$@" ]]
+# 	then 
+# 	exit
+# fi
+
+	if [[ -n "$@" ]]
+	then
+		str2=$@" "
+	fi
+	#echo "2"
+	echo -e "$str1 : $(ls | awk ' /.cpp/ { printf $str1" " }' | sed s/cpp/o/g) \n\tg++ -ansi -Wall -g -o $str1 $str2$(ls | awk ' /.cpp/ { printf $str1" " }' | sed s/cpp/o/g) \n">> Makefile
+	#echo "3"
+	for filename in *.cpp; do
+		#echo "fix : bug "
+		headerFile=$(cat $filename | awk ' /#include "/ { printf $2" " }' | sed s/'"'//g)
+		Ofile=`echo $filename | cut -f1 -d'.'`
+		echo -e "$Ofile.o : $filename $headerFile\n\tg++ -ansi -Wall -g -c $str2$filename\n" >> Makefile
+		# echo -e "$Ofile.o : $filename $headerFile" >> Makefile
+		# echo -e "\n" >> Makefile
+		# echo -e "\t" >> Makefile
+		# echo -e "g++ -ansi -Wall -g -c $str2$filename\n" >> Makefile
+	done
+		echo -e "clean : \n\trm -f $str1 $(ls | awk ' /.cpp/ { printf $str1" " }' | sed s/cpp/o/g) " >> Makefile
+fi

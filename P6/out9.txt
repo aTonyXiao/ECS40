@@ -1,0 +1,180 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter an airport abbreviation (XXX): Green Bay, Wisconsin: 154
+Billings, Montana: 156
+Burbank, California: 0
+Erie, Pennsylvania: 158
+Pueblo, Colorado: 159
+Midland, Texas: 159
+South Bend, Indiana: 159
+Norman, Oklahoma: 163
+Allentown, Pennsylvania: 164
+Manchester, New Hampshire: 166
+Charleston, South Carolina: 168
+Killeen, Texas: 172
+Athens, Georgia: 172
+Lafayette, Louisiana: 174
+Peoria, Illinois: 174
+Gainesville, Florida: 175
+Flint, Michigan: 175
+Lansing, Michigan: 176
+Ann Arbor, Michigan: 176
+Abilene, Texas: 178
+Evansville, Indiana: 178
+Springfield, Illinois: 179
+Provo, Utah: 180
+Olathe, Kansas: 181
+Visalia, California: 181
+Clarksville, Tennessee: 182
+Concord, California: 185
+El Monte, California: 0
+Topeka, Kansas: 188
+New Haven, Connecticut: 190
+Hartford, Connecticut: 191
+Columbia, South Carolina: 191
+Cedar Rapids, Iowa: 193
+Fullerton, California: 0
+Bridgeport, Connecticut: 209
+Syracuse, New York: 213
+Palmdale, California: 0
+Hayward, California: 216
+Torrance, California: 0
+Salinas, California: 220
+Lancaster, California: 0
+Eugene, Oregon: 228
+Sioux Falls, South Dakota: 232
+Salem, Oregon: 232
+Santa Rosa, California: 236
+Springfield, Missouri: 237
+Dayton, Ohio: 238
+Rockford, Illinois: 240
+Tallahassee, Florida: 259
+Chattanooga, Tennessee: 260
+Aurora, Illinois: 262
+Ontario, California: 0
+Huntsville, Alabama: 262
+Fayetteville, North Carolina: 263
+Providence, Rhode Island: 264
+Brownsville, Texas: 265
+Worcester, Massachusetts: 266
+Jackson, Mississippi: 269
+Newport News, Virginia: 274
+Salt Lake City, Utah: 277
+Knoxville, Tennessee: 281
+Fort Lauderdale, Florida: 281
+Oxnard, California: 0
+Amarillo, Texas: 285
+Columbus, Georgia: 286
+Little Rock, Arkansas: 287
+Mobile, Alabama: 293
+Augusta, Georgia: 294
+Grand Rapids, Michigan: 296
+Tacoma, Washington: 301
+Des Moines, Iowa: 302
+Shreveport, Louisiana: 306
+Richmond, Virginia: 306
+Spokane, Washington: 308
+Boise, Idaho: 311
+Modesto, California: 312
+Montgomery, Alabama: 313
+Rochester, New York: 317
+Reno, Nevada: 329
+Winston-Salem, North Carolina: 330
+Lubbock, Texas: 333
+Laredo, Texas: 333
+Chesapeake, Virginia: 336
+Baton Rouge, Louisiana: 348
+Orlando, Florida: 349
+Madison, Wisconsin: 350
+Birmingham, Alabama: 352
+Scottsdale, Arizona: 361
+Norfolk, Virginia: 361
+New Orleans, Louisiana: 366
+St. Petersburg, Florida: 377
+Greensboro, North Carolina: 379
+Lincoln, Nebraska: 381
+Fort Wayne, Indiana: 385
+Buffalo, New York: 418
+Lexington, Kentucky: 427
+Anchorage, Alaska: 428
+Newark, New Jersey: 429
+Corpus Christi, Texas: 437
+Stockton, California: 440
+Riverside, California: 0
+Toledo, Ohio: 452
+Pittsburgh, Pennsylvania: 477
+Bakersfield, California: 484
+Cincinnati, Ohio: 509
+Tampa, Florida: 516
+Santa Ana, California: 0
+St. Louis, Missouri: 537
+Wichita, Kansas: 554
+Honolulu, Hawaii: 576
+Raleigh, North Carolina: 576
+Colorado Springs, Colorado: 577
+Minneapolis, Minnesota: 578
+Tulsa, Oklahoma: 589
+Oakland, California: 615
+Miami, Florida: 628
+Omaha, Nebraska: 651
+Cleveland, Ohio: 671
+Kansas City, Missouri: 690
+Sacramento, California: 705
+Long Beach, California: 0
+Fresno, California: 721
+Albuquerque, New Mexico: 794
+Atlanta, Georgia: 796
+Tucson, Arizona: 806
+Oklahoma City, Oklahoma: 839
+Portland, Oregon: 844
+Louisville, Kentucky: 855
+Las Vegas, Nevada: 857
+Washington, District of Columbia: 902
+Denver, Colorado: 902
+Nashville, Tennessee: 906
+Seattle, Washington: 911
+Boston, Massachusetts: 919
+Milwaukee, Wisconsin: 923
+El Paso, Texas: 930
+Baltimore, Maryland: 977
+Charlotte, North Carolina: 1030
+Memphis, Tennessee: 1033
+Fort Worth, Texas: 1045
+Austin, Texas: 1139
+Columbus, Ohio: 1146
+San Francisco, California: 1173
+Indianapolis, Indiana: 1220
+Jacksonville, Florida: 1235
+Detroit, Michigan: 1406
+San Jose, California: 1441
+Dallas, Texas: 1902
+San Diego, California: 1942
+San Antonio, Texas: 2038
+Philadelphia, Pennsylvania: 2223
+Phoenix, Arizona: 2380
+Houston, Texas: 3386
+Chicago, Illinois: 4350
+New York City, New York: 12690
+Total passengers: 91193
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 

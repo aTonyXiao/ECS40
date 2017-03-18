@@ -1,0 +1,10 @@
+1
+A SFO
+1
+SFO LAX
+1
+SFO A
+1
+SFO LAX
+0
+

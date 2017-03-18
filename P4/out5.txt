@@ -1,0 +1,1882 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 375 passengers fly the 1246 miles from
+New York City, New York to Lafayette, Louisiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 919 passengers fly the 2606 miles from
+Los Angeles, California to Boston, Massachusetts.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 149 passengers fly the 1735 miles from
+Chicago, Illinois to Fullerton, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 339 passengers fly the 432 miles from
+Houston, Texas to Tulsa, Oklahoma.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 64 passengers fly the 368 miles from
+Phoenix, Arizona to Burbank, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 133 passengers fly the 771 miles from
+Philadelphia, Pennsylvania to Birmingham, Alabama.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 72 passengers fly the 1631 miles from
+San Antonio, Texas to Bridgeport, Connecticut.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 93 passengers fly the 2254 miles from
+San Diego, California to Fort Lauderdale, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 57 passengers fly the 635 miles from
+Dallas, Texas to Evansville, Indiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 42 passengers fly the 1448 miles from
+San Jose, California to Killeen, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 1040 passengers fly the 240 miles from
+Detroit, Michigan to Chicago, Illinois.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 101 passengers fly the 2181 miles from
+Jacksonville, Florida to Bakersfield, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 187 passengers fly the 497 miles from
+Indianapolis, Indiana to Washington, District of Columbia.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 117 passengers fly the 1462 miles from
+San Francisco, California to Tulsa, Oklahoma.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 42 passengers fly the 1963 miles from
+Columbus, Ohio to Lancaster, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 55 passengers fly the 412 miles from
+Austin, Texas to Amarillo, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 27 passengers fly the 1076 miles from
+Fort Worth, Texas to Billings, Montana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 51 passengers fly the 318 miles from
+Memphis, Tennessee to Mobile, Alabama.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 58 passengers fly the 1194 miles from
+Charlotte, North Carolina to Lubbock, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 60 passengers fly the 987 miles from
+Baltimore, Maryland to New Orleans, Louisiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 71 passengers fly the 658 miles from
+El Paso, Texas to Riverside, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 298 passengers fly the 851 miles from
+Milwaukee, Wisconsin to Dallas, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 529 passengers fly the 1597 miles from
+Boston, Massachusetts to Houston, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 54 passengers fly the 2546 miles from
+Seattle, Washington to Orlando, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 36 passengers fly the 379 miles from
+Nashville, Tennessee to Springfield, Missouri.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 28 passengers fly the 931 miles from
+Denver, Colorado to Concord, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 667 passengers fly the 597 miles from
+Washington, District of Columbia to Chicago, Illinois.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 70 passengers fly the 222 miles from
+Las Vegas, Nevada to Bakersfield, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 38 passengers fly the 779 miles from
+Louisville, Kentucky to Worcester, Massachusetts.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 84 passengers fly the 1530 miles from
+Portland, Oregon to Tulsa, Oklahoma.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 42 passengers fly the 902 miles from
+Oklahoma City, Oklahoma to Augusta, Georgia.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 45 passengers fly the 711 miles from
+Tucson, Arizona to Reno, Nevada.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 56 passengers fly the 711 miles from
+Atlanta, Georgia to Buffalo, New York.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 25 passengers fly the 654 miles from
+Albuquerque, New Mexico to El Monte, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 272 passengers fly the 2397 miles from
+Fresno, California to Philadelphia, Pennsylvania.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 28 passengers fly the 416 miles from
+Long Beach, California to Santa Rosa, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 66 passengers fly the 1312 miles from
+Sacramento, California to Wichita, Kansas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 25 passengers fly the 1324 miles from
+Kansas City, Missouri to Palmdale, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 21 passengers fly the 518 miles from
+Cleveland, Ohio to Columbia, South Carolina.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 6 passengers fly the 1723 miles from
+Green Bay, Wisconsin to Eugene, Oregon.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 19 passengers fly the 498 miles from
+Omaha, Nebraska to Evansville, Indiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 21 passengers fly the 2314 miles from
+Miami, Florida to Fullerton, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 36 passengers fly the 2431 miles from
+Oakland, California to Orlando, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 26 passengers fly the 525 miles from
+Tulsa, Oklahoma to Huntsville, Alabama.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 15 passengers fly the 681 miles from
+Minneapolis, Minnesota to Erie, Pennsylvania.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 17 passengers fly the 528 miles from
+Colorado Springs, Colorado to Olathe, Kansas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 18 passengers fly the 2375 miles from
+Raleigh, North Carolina to Concord, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 29 passengers fly the 3971 miles from
+Honolulu, Hawaii to Shreveport, Louisiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 1525 miles from
+Billings, Montana to Rochester, New York.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 48 passengers fly the 698 miles from
+Wichita, Kansas to Cincinnati, Ohio.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 14 passengers fly the 1582 miles from
+St. Louis, Missouri to Burbank, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 20 passengers fly the 777 miles from
+Santa Ana, California to Eugene, Oregon.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 15 passengers fly the 592 miles from
+Tampa, Florida to Lafayette, Louisiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 4 passengers fly the 2128 miles from
+Burbank, California to Erie, Pennsylvania.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 30 passengers fly the 372 miles from
+Cincinnati, Ohio to Madison, Wisconsin.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 28 passengers fly the 2249 miles from
+Bakersfield, California to Orlando, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 14 passengers fly the 583 miles from
+Erie, Pennsylvania to St. Louis, Missouri.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 24 passengers fly the 2135 miles from
+Pittsburgh, Pennsylvania to Tacoma, Washington.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 20 passengers fly the 460 miles from
+Toledo, Ohio to Chattanooga, Tennessee.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 42 passengers fly the 1149 miles from
+Riverside, California to Wichita, Kansas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 0 passengers fly the 87 miles from
+Stockton, California to Salinas, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 13 passengers fly the 932 miles from
+Corpus Christi, Texas to Gainesville, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 14 passengers fly the 913 miles from
+Newark, New Jersey to Cedar Rapids, Iowa.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 0 passengers fly the 0 miles from
+Anchorage, Alaska to Anchorage, Alaska.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 12 passengers fly the 308 miles from
+Lexington, Kentucky to Peoria, Illinois.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 27 passengers fly the 834 miles from
+Pueblo, Colorado to Memphis, Tennessee.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 24 passengers fly the 1097 miles from
+Buffalo, New York to Baton Rouge, Louisiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 5 passengers fly the 925 miles from
+Midland, Texas to Fullerton, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 18 passengers fly the 470 miles from
+South Bend, Indiana to Kansas City, Missouri.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 10 passengers fly the 1043 miles from
+Fort Wayne, Indiana to Pueblo, Colorado.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 33 passengers fly the 688 miles from
+Norman, Oklahoma to Indianapolis, Indiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 73 passengers fly the 731 miles from
+Lincoln, Nebraska to Austin, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 23 passengers fly the 1814 miles from
+Greensboro, North Carolina to Scottsdale, Arizona.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 11 passengers fly the 124 miles from
+St. Petersburg, Florida to Gainesville, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 6 passengers fly the 992 miles from
+Allentown, Pennsylvania to Springfield, Missouri.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 5 passengers fly the 136 miles from
+Manchester, New Hampshire to New Haven, Connecticut.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 10 passengers fly the 1100 miles from
+New Orleans, Louisiana to Allentown, Pennsylvania.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 11 passengers fly the 890 miles from
+Norfolk, Virginia to Cedar Rapids, Iowa.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 18 passengers fly the 1561 miles from
+Scottsdale, Arizona to Grand Rapids, Michigan.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 68 passengers fly the 493 miles from
+Birmingham, Alabama to Columbus, Ohio.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 1043 miles from
+Madison, Wisconsin to Midland, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 41 passengers fly the 2401 miles from
+Orlando, Florida to Sacramento, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 72 passengers fly the 693 miles from
+Baton Rouge, Louisiana to Indianapolis, Indiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 248 passengers fly the 680 miles from
+Chesapeake, Virginia to Chicago, Illinois.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 4 passengers fly the 757 miles from
+Charleston, South Carolina to Peoria, Illinois.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 1118 miles from
+Killeen, Texas to Fort Lauderdale, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 16 passengers fly the 1318 miles from
+Laredo, Texas to Grand Rapids, Michigan.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 6 passengers fly the 743 miles from
+Athens, Georgia to Syracuse, New York.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 1526 miles from
+Lubbock, Texas to Allentown, Pennsylvania.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 794 miles from
+Winston-Salem, North Carolina to Lafayette, Louisiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 39 passengers fly the 112 miles from
+Reno, Nevada to Sacramento, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 11 passengers fly the 806 miles from
+Lafayette, Louisiana to Greensboro, North Carolina.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 4 passengers fly the 502 miles from
+Peoria, Illinois to Erie, Pennsylvania.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 4 passengers fly the 1803 miles from
+Gainesville, Florida to Billings, Montana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 58 passengers fly the 1938 miles from
+Flint, Michigan to San Diego, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 11 passengers fly the 2219 miles from
+Rochester, New York to Palmdale, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 0 passengers fly the 45 miles from
+Lansing, Michigan to Flint, Michigan.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 17 passengers fly the 1923 miles from
+Montgomery, Alabama to Reno, Nevada.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 108 passengers fly the 1406 miles from
+Modesto, California to San Antonio, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 13 passengers fly the 1685 miles from
+Boise, Idaho to Huntsville, Alabama.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 25 passengers fly the 1727 miles from
+Ann Arbor, Michigan to Las Vegas, Nevada.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 17 passengers fly the 1217 miles from
+Abilene, Texas to Raleigh, North Carolina.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 12 passengers fly the 1411 miles from
+Spokane, Washington to Springfield, Missouri.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 685 miles from
+Richmond, Virginia to Springfield, Illinois.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 64 passengers fly the 727 miles from
+Shreveport, Louisiana to Jacksonville, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 43 passengers fly the 1871 miles from
+Evansville, Indiana to San Jose, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 618 miles from
+Springfield, Illinois to Augusta, Georgia.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 10 passengers fly the 1122 miles from
+Provo, Utah to Laredo, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 47 passengers fly the 310 miles from
+Des Moines, Iowa to Milwaukee, Wisconsin.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 5 passengers fly the 602 miles from
+Olathe, Kansas to Lansing, Michigan.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 1918 miles from
+Tacoma, Washington to Ann Arbor, Michigan.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 14 passengers fly the 663 miles from
+Grand Rapids, Michigan to Little Rock, Arkansas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 1701 miles from
+Visalia, California to Aurora, Illinois.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 793 miles from
+Augusta, Georgia to Cedar Rapids, Iowa.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 11 passengers fly the 540 miles from
+Mobile, Alabama to Springfield, Missouri.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 304 miles from
+Clarksville, Tennessee to Montgomery, Alabama.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 344 miles from
+Little Rock, Arkansas to Evansville, Indiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 860 miles from
+Columbus, Georgia to Abilene, Texas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 994 miles from
+Amarillo, Texas to Visalia, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 43 passengers fly the 930 miles from
+Oxnard, California to Seattle, Washington.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 20 passengers fly the 875 miles from
+Fort Lauderdale, Florida to Lexington, Kentucky.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 44 passengers fly the 535 miles from
+Knoxville, Tennessee to Milwaukee, Wisconsin.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 572 miles from
+Concord, California to Salt Lake City, Utah.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 13 passengers fly the 1550 miles from
+Salt Lake City, Utah to Knoxville, Tennessee.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 18 passengers fly the 538 miles from
+Newport News, Virginia to Fort Wayne, Indiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 12 passengers fly the 249 miles from
+Jackson, Mississippi to Huntsville, Alabama.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 0 passengers fly the 14 miles from
+El Monte, California to Fullerton, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 32 passengers fly the 2555 miles from
+Worcester, Massachusetts to Long Beach, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 7 passengers fly the 962 miles from
+Brownsville, Texas to Gainesville, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 43 passengers fly the 327 miles from
+Providence, Rhode Island to Baltimore, Maryland.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 6 passengers fly the 818 miles from
+Fayetteville, North Carolina to Green Bay, Wisconsin.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 1772 miles from
+Huntsville, Alabama to Palmdale, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 7 passengers fly the 786 miles from
+Ontario, California to Pueblo, Colorado.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 21 passengers fly the 430 miles from
+Aurora, Illinois to Pittsburgh, Pennsylvania.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 5 passengers fly the 1288 miles from
+Topeka, Kansas to El Monte, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 11 passengers fly the 351 miles from
+New Haven, Connecticut to Norfolk, Virginia.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 7 passengers fly the 554 miles from
+Chattanooga, Tennessee to Flint, Michigan.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 10 passengers fly the 348 miles from
+Hartford, Connecticut to Chesapeake, Virginia.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 31 passengers fly the 1984 miles from
+Tallahassee, Florida to Long Beach, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 637 miles from
+Columbia, South Carolina to Little Rock, Arkansas.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 17 passengers fly the 1092 miles from
+Cedar Rapids, Iowa to Tampa, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 6 passengers fly the 2495 miles from
+Fullerton, California to New Haven, Connecticut.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 10 passengers fly the 1289 miles from
+Bridgeport, Connecticut to Shreveport, Louisiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 30 passengers fly the 2272 miles from
+Syracuse, New York to Portland, Oregon.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 9 passengers fly the 1783 miles from
+Rockford, Illinois to Santa Rosa, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 12 passengers fly the 404 miles from
+Dayton, Ohio to Rochester, New York.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 7 passengers fly the 1398 miles from
+Springfield, Missouri to El Monte, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 7 passengers fly the 2009 miles from
+Santa Rosa, California to Lansing, Michigan.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 23 passengers fly the 1279 miles from
+Palmdale, California to Omaha, Nebraska.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 13 passengers fly the 2453 miles from
+Salem, Oregon to Chesapeake, Virginia.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 8 passengers fly the 1282 miles from
+Sioux Falls, South Dakota to Palmdale, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 6 passengers fly the 1878 miles from
+Hayward, California to Evansville, Indiana.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 0 passengers fly the 44 miles from
+Torrance, California to Ontario, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 7 passengers fly the 2423 miles from
+Salinas, California to Syracuse, New York.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 12 passengers fly the 464 miles from
+Eugene, Oregon to Modesto, California.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 14 passengers fly the 2140 miles from
+Lancaster, California to St. Petersburg, Florida.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 

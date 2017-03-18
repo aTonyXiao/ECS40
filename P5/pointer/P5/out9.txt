@@ -1,0 +1,176 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter an airport abbreviation (XXX): New York City, New York: 12690
+Chicago, Illinois: 4350
+Houston, Texas: 3386
+Phoenix, Arizona: 2380
+Philadelphia, Pennsylvania: 2223
+San Antonio, Texas: 2038
+San Diego, California: 1942
+Dallas, Texas: 1902
+San Jose, California: 1441
+Detroit, Michigan: 1406
+Jacksonville, Florida: 1235
+Indianapolis, Indiana: 1220
+San Francisco, California: 1173
+Columbus, Ohio: 1146
+Austin, Texas: 1139
+Fort Worth, Texas: 1045
+Memphis, Tennessee: 1033
+Charlotte, North Carolina: 1030
+Baltimore, Maryland: 977
+El Paso, Texas: 930
+Milwaukee, Wisconsin: 923
+Boston, Massachusetts: 919
+Seattle, Washington: 911
+Nashville, Tennessee: 906
+Denver, Colorado: 902
+Washington, District of Columbia: 902
+Las Vegas, Nevada: 857
+Louisville, Kentucky: 855
+Portland, Oregon: 844
+Oklahoma City, Oklahoma: 839
+Tucson, Arizona: 806
+Atlanta, Georgia: 796
+Albuquerque, New Mexico: 794
+Fresno, California: 721
+Long Beach, California: 0
+Sacramento, California: 705
+Kansas City, Missouri: 690
+Cleveland, Ohio: 671
+Omaha, Nebraska: 651
+Miami, Florida: 628
+Oakland, California: 615
+Tulsa, Oklahoma: 589
+Minneapolis, Minnesota: 578
+Colorado Springs, Colorado: 577
+Raleigh, North Carolina: 576
+Honolulu, Hawaii: 576
+Wichita, Kansas: 554
+St. Louis, Missouri: 537
+Santa Ana, California: 0
+Tampa, Florida: 516
+Cincinnati, Ohio: 509
+Bakersfield, California: 484
+Pittsburgh, Pennsylvania: 477
+Toledo, Ohio: 452
+Riverside, California: 0
+Stockton, California: 440
+Corpus Christi, Texas: 437
+Newark, New Jersey: 429
+Anchorage, Alaska: 428
+Lexington, Kentucky: 427
+Buffalo, New York: 418
+Fort Wayne, Indiana: 385
+Lincoln, Nebraska: 381
+Greensboro, North Carolina: 379
+St. Petersburg, Florida: 377
+New Orleans, Louisiana: 366
+Norfolk, Virginia: 361
+Scottsdale, Arizona: 361
+Birmingham, Alabama: 352
+Madison, Wisconsin: 350
+Orlando, Florida: 349
+Baton Rouge, Louisiana: 348
+Chesapeake, Virginia: 336
+Laredo, Texas: 333
+Lubbock, Texas: 333
+Winston-Salem, North Carolina: 330
+Reno, Nevada: 329
+Rochester, New York: 317
+Montgomery, Alabama: 313
+Modesto, California: 312
+Boise, Idaho: 311
+Spokane, Washington: 308
+Richmond, Virginia: 306
+Shreveport, Louisiana: 306
+Des Moines, Iowa: 302
+Tacoma, Washington: 301
+Grand Rapids, Michigan: 296
+Augusta, Georgia: 294
+Mobile, Alabama: 293
+Little Rock, Arkansas: 287
+Columbus, Georgia: 286
+Amarillo, Texas: 285
+Oxnard, California: 0
+Fort Lauderdale, Florida: 281
+Knoxville, Tennessee: 281
+Salt Lake City, Utah: 277
+Newport News, Virginia: 274
+Jackson, Mississippi: 269
+Worcester, Massachusetts: 266
+Brownsville, Texas: 265
+Providence, Rhode Island: 264
+Fayetteville, North Carolina: 263
+Huntsville, Alabama: 262
+Ontario, California: 0
+Aurora, Illinois: 262
+Chattanooga, Tennessee: 260
+Tallahassee, Florida: 259
+Rockford, Illinois: 240
+Dayton, Ohio: 238
+Springfield, Missouri: 237
+Santa Rosa, California: 236
+Salem, Oregon: 232
+Sioux Falls, South Dakota: 232
+Eugene, Oregon: 228
+Lancaster, California: 0
+Salinas, California: 220
+Torrance, California: 0
+Hayward, California: 216
+Palmdale, California: 0
+Syracuse, New York: 213
+Bridgeport, Connecticut: 209
+Fullerton, California: 0
+Cedar Rapids, Iowa: 193
+Columbia, South Carolina: 191
+Hartford, Connecticut: 191
+New Haven, Connecticut: 190
+Topeka, Kansas: 188
+El Monte, California: 0
+Concord, California: 185
+Clarksville, Tennessee: 182
+Visalia, California: 181
+Olathe, Kansas: 181
+Provo, Utah: 180
+Springfield, Illinois: 179
+Evansville, Indiana: 178
+Abilene, Texas: 178
+Ann Arbor, Michigan: 176
+Lansing, Michigan: 176
+Flint, Michigan: 175
+Gainesville, Florida: 175
+Peoria, Illinois: 174
+Lafayette, Louisiana: 174
+Athens, Georgia: 172
+Killeen, Texas: 172
+Charleston, South Carolina: 168
+Manchester, New Hampshire: 166
+Allentown, Pennsylvania: 164
+Norman, Oklahoma: 163
+South Bend, Indiana: 159
+Midland, Texas: 159
+Pueblo, Colorado: 159
+Erie, Pennsylvania: 158
+Burbank, California: 0
+Billings, Montana: 156
+Green Bay, Wisconsin: 154
+Total passengers: 91193
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 

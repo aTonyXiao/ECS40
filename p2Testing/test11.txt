@@ -1,0 +1,1 @@
+usage: cpdirs.sh source_directory1 source_directory2 dest_directory

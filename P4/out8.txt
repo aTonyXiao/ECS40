@@ -1,0 +1,21 @@
+
+
+
+
+0. Done.
+0. Done.
+1. Determine distance and passengers between two airports.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+2. Determine all traffic from one airport.
+3. Display planes information.
+3. Display planes information.
+4. Add plane information.
+4. Add plane information.
+5. Determine best plane between two airports.
+5. Determine best plane between two airports.
+Flight Simulator Menu
+Flight Simulator Menu
+Please enter an airport abbreviation (XXX): SF0 is not a valid airport.
+Your choice (0 - 5): 
+Your choice (0 - 5): 

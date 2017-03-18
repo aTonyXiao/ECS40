@@ -1,0 +1,166 @@
+United COS SCK
+Delta SEA FUL
+Alaska DET TPA
+Southwest SCK LFT
+JetBlue SBN GSO
+SkyWest BIL SGF
+Virgin JAN NEW
+United NEW ICT
+Delta DSM ANC
+Alaska NGU COS
+GRB 11 United OJC United PUB Delta BOS Southwest PVU Southwest WJF SkyWest FAT SkyWest IND SkyWest CRP Virgin FWA Virgin ELP Virgin RAL 
+BIL 8 United BOS Delta STL Delta OKC Delta NGU JetBlue AUS SkyWest PDX SkyWest LRD SkyWest NEW 
+BUR 4 Alaska NEW Alaska MOD Alaska HNL Southwest MGM 
+ERI 3 Delta PIT Delta PHX JetBlue FNT 
+PUB 7 United TOA United AHN United FAT Delta LAN JetBlue ICT JetBlue JAX JetBlue GRB 
+MAF 5 Delta PIE Delta MEM Alaska PIT JetBlue MKE JetBlue FAY 
+SBN 2 Southwest SFO JetBlue BRO 
+OUN 8 Delta EMT Delta MKE Delta CKV Alaska PVU Alaska BOS Alaska HSV Southwest LAX Virgin CAE 
+ABE 6 Delta BAL Alaska RIC Alaska SLC SkyWest MSN SkyWest LFT SkyWest RFD 
+MHT 4 Southwest LNK Southwest MSN SkyWest RIC Virgin CLE 
+CHS 3 United SCK JetBlue HWD Virgin MSN 
+ILE 8 United ORL United BOI Delta BOI Delta DSM Delta TPA SkyWest CKV SkyWest SPI Virgin SCK 
+AHN 6 Alaska EUG Southwest TUL Southwest NEW JetBlue ERI SkyWest VIS SkyWest MKE 
+LFT 14 United TLH United FTW United DCA Alaska LRD Southwest CMH Southwest MKE Southwest DAL JetBlue LAX JetBlue MIA SkyWest CHA SkyWest ANC Virgin PHL Virgin PMD Virgin LAX 
+PIA 6 Alaska ARR Alaska TLH Alaska LBB Southwest BAL Virgin CMH Virgin PHF 
+GNV 7 Delta TOP Delta SDM Delta PIA Alaska VIS SkyWest EUG Virgin NYC Virgin INT 
+FNT 4 Delta ONT Delta CVG Alaska LOU Alaska LNK 
+LAN 8 United AGS United OKC Delta IND Alaska AHN Southwest LRD Southwest PUB SkyWest HSV SkyWest RAL 
+ARB 7 United NYC United SPI Southwest IAH Southwest SGF Southwest TPA SkyWest PHX SkyWest ABE 
+ABI 3 Delta GRB Delta FNT Delta CHI 
+EVV 6 JetBlue SAT SkyWest EWR SkyWest CHS SkyWest STS Virgin MIA Virgin ONT 
+SPI 6 JetBlue ILE JetBlue AGS SkyWest SBN Virgin ERI Virgin WJF Virgin DEN 
+PVU 15 United CCR Delta BHM Delta FAT Alaska GRR Alaska GSO Southwest PIA Southwest LAS Southwest DEN JetBlue OKC JetBlue HFD JetBlue PHX SkyWest TYS SkyWest JAX Virgin ATL Virgin SLE 
+OJC 6 United CHS Alaska STS Alaska RNO Alaska FSD JetBlue IND Virgin GRR 
+VIS 7 Delta GSO JetBlue PMD JetBlue CRP SkyWest BOS SkyWest FLL Virgin SEA Virgin SFO 
+CKV 4 United MKE United W39 SkyWest BUF Virgin SDL 
+CCR 12 United ICT Delta BDR Delta ERI Delta OUN Alaska PHX Alaska BAL Southwest DET JetBlue FUL JetBlue ARR Virgin BUF Virgin LGB Virgin FLL 
+EMT 9 Alaska CVG Alaska CKV Southwest CID SkyWest SDM SkyWest TIW SkyWest GNV Virgin OKC Virgin OUN Virgin PIA 
+TOP 7 United AUS United OUN United GNV Southwest BUF Virgin RFD Virgin GSO Virgin PUB 
+HVN 5 United GSO Alaska IND JetBlue OMA SkyWest CCR SkyWest PUB 
+HFD 5 United SGF United MHT Delta LZK JetBlue LGB JetBlue ORL 
+CAE 11 Delta BRO Delta INT Alaska RFD Alaska BTR Alaska HWD Southwest FLL Southwest SFF Southwest MHT SkyWest ROC Virgin HFD Virgin BUR 
+CID 5 Delta BNA Southwest TLH Southwest PDX Virgin SYR Virgin OXR 
+FUL 10 United STL United FLL United HFD Delta STS Delta BTR Delta CAE Alaska SDL Southwest SEA Southwest DAY SkyWest TLH 
+BDR 8 United STS Delta MOB Alaska SBN Southwest GSO Southwest PIE Southwest SLE JetBlue MOB JetBlue CHS 
+SYR 9 United IAH United DAL United TPA Delta IAH Delta SPI Alaska LAN Alaska SJC Southwest MSP Southwest CLE 
+PMD 6 Delta ATL Alaska INT Southwest ELP Southwest NYC JetBlue LOU SkyWest PIE 
+HWD 5 United GRB United LGB Alaska FUL JetBlue ABI SkyWest DSM 
+TOA 4 Delta CHA Delta MOD Southwest CLT JetBlue HVN 
+SNS 6 Delta SYR Delta WJF Southwest OJC Southwest ABQ Southwest BTR SkyWest DCA 
+WJF 7 Delta W39 Delta ABQ Delta TOL Alaska GNV Alaska LZK Alaska LFT Southwest SBN 
+EUG 7 Delta SLC Delta SJC Alaska COS JetBlue GSO JetBlue VIS JetBlue MGM Virgin RNO 
+FSD 11 United ANC United BDR United BFL Alaska ABE Alaska STL Southwest SLC Southwest ATL Southwest ANC JetBlue SYR JetBlue PHF JetBlue CKV 
+SLE 4 Delta NEW Alaska ROC Alaska SFO Virgin DAL 
+STS 7 United PDX Delta MSN Alaska MEM Alaska WJF Alaska DCA Southwest CVG Southwest MIA 
+SGF 5 Southwest RFD Southwest AUS Southwest FNT JetBlue PDX JetBlue BIL 
+DAY 10 United CSG United SJC United TOP Delta EWR Delta TIW Delta LRD Southwest HNL JetBlue OAK JetBlue SLC SkyWest GRR 
+RFD 8 United DSM United BIL United MOD Alaska CCR Alaska SFF JetBlue LZK SkyWest MHT SkyWest IAH 
+TLH 8 Alaska SGF Alaska LGB Southwest CAE Southwest SDM Southwest IND JetBlue SCK JetBlue MEM JetBlue CVG 
+CHA 6 United SLE Delta MGM Delta PHL Southwest SDL Southwest MOD SkyWest TPA 
+ARR 8 Delta EUG Delta BUF Delta VIS Alaska TPA Alaska TOP Southwest GNV Southwest OKC SkyWest MOD 
+ONT 6 United PIT United SBN United PIA Southwest SCK Southwest EWR SkyWest OUN 
+HSV 9 United INT Alaska ICT Alaska OAK JetBlue IAH JetBlue OUN JetBlue ORH Virgin SBN Virgin BOI Virgin SGF 
+FAY 7 Southwest SYR Southwest AHN Southwest MKC SkyWest RNO SkyWest PVD Virgin ABI Virgin PHX 
+PVD 4 JetBlue RAL Virgin ABE Virgin FSD Virgin FUL 
+BRO 2 JetBlue INT JetBlue SHV 
+ORH 6 United PMD Southwest TYS Southwest INT SkyWest SYR SkyWest BNA SkyWest FNT 
+JAN 7 Delta AHN Southwest BIL SkyWest GSO SkyWest SJC SkyWest FAY Virgin FTW Virgin MHT 
+PHF 9 Delta LAX Delta AGS Alaska ILE Southwest FAY Southwest CHA Southwest PMD SkyWest INT Virgin ABQ Virgin SHV 
+SLC 1 United MEM 
+TYS 2 JetBlue CSG JetBlue TOA 
+FLL 12 United LZK Delta PVD Alaska NYC Alaska SEA Alaska OKC Southwest LOU Southwest BRO JetBlue TOL SkyWest SMF Virgin CHS Virgin RIC Virgin COS 
+OXR 4 United BUF JetBlue RIC JetBlue MHT JetBlue FWA 
+AMA 11 United LEX Alaska SLE Alaska IAH Alaska BUR JetBlue OXR JetBlue PIT SkyWest ATL SkyWest DAL Virgin MSP Virgin TOP Virgin PIE 
+CSG 4 United VIS Delta FUL JetBlue CLE JetBlue BAL 
+LZK 9 Delta FAY Alaska CRP Alaska SNS JetBlue CLT JetBlue NEW JetBlue ABE Virgin CSG Virgin EWR Virgin BRO 
+MOB 3 Alaska DAL JetBlue SGF JetBlue EWR 
+AGS 5 Southwest BFL Southwest OUN Virgin FAT Virgin SLC Virgin HVN 
+GRR 9 United HSV United CVG United LFT Delta LFT Delta ROC Delta BUR Alaska TOA Alaska BNA JetBlue AMA 
+TIW 3 Delta FSD SkyWest ERI SkyWest TUL 
+DSM 3 United MKC Delta ORL Southwest OMA 
+SHV 7 United CMH United SMF United CRP Delta JAX JetBlue OJC JetBlue HNL JetBlue TYS 
+RIC 5 United HVN SkyWest FUL SkyWest MGM SkyWest MEM Virgin STL 
+SFF 5 United CKV Alaska FLL Southwest VIS Southwest FWA Southwest RIC 
+BOI 2 Delta CRP SkyWest SFF 
+MOD 7 United PVD United TOL United EVV Delta MIA JetBlue AHN Virgin MKC Virgin CHA 
+MGM 8 United TYS Delta PMD Alaska BFL Southwest JAN JetBlue PVU JetBlue MKC JetBlue RFD SkyWest MKC 
+ROC 2 Southwest CCR Southwest BUR 
+RNO 6 Delta ABE Delta LBB Delta MKC Alaska MIA Alaska MKE Alaska BDR 
+INT 4 Alaska FAY Alaska TIW JetBlue LBB SkyWest BOI 
+LBB 10 Delta FTW Delta OJC Alaska SCK Alaska BRO JetBlue EUG JetBlue BDR JetBlue BUF SkyWest HFD SkyWest LNK Virgin HNL 
+LRD 5 Delta SBN Delta SAT JetBlue TUL JetBlue LFT SkyWest AHN 
+W39 5 Alaska OUN Southwest ROC Southwest GRB JetBlue BOS JetBlue WJF 
+BTR 6 United JAN Delta HNL Delta RDU Alaska TOL Alaska AMA SkyWest AUS 
+ORL 8 Delta CLT Alaska DET Alaska NGU Alaska CMH SkyWest TOP Virgin BHM Virgin LAS Virgin SDM 
+MSN 3 United BHM United ABI SkyWest STL 
+BHM 12 Delta SGF Delta PDX Delta DAL Alaska GRB Alaska TUL Alaska ATL JetBlue SNS JetBlue BTR JetBlue GNV Virgin NEW Virgin MOD Virgin RDU 
+SDL 7 United ILE Delta BIL Alaska MSP Alaska PUB SkyWest HWD Virgin SMF Virgin TLH 
+NGU 7 United BNA Delta CID Alaska SYR SkyWest SNA SkyWest BUR Virgin SFF Virgin TOL 
+NEW 5 United EWR SkyWest PHF SkyWest GRB SkyWest SEA Virgin TUL 
+PIE 7 United FAY Delta NYC Delta TUS Delta ORH JetBlue PUB JetBlue FLL Virgin PIT 
+GSO 6 United FUL Alaska BOI Alaska AGS JetBlue ELP JetBlue DCA SkyWest ABI 
+LNK 6 United ONT United RDU Delta AUS Delta JAN Delta GNV Alaska SPI 
+FWA 5 United ROC United HNL Alaska OXR Alaska ARB SkyWest MIA 
+BUF 5 Delta TLH Alaska TUS JetBlue PVD JetBlue DEN Virgin PVD 
+LEX 14 United LBB United MOB United PHF Alaska FWA Southwest SHV Southwest EUG Southwest JAX JetBlue TPA JetBlue DSM JetBlue LNK SkyWest EVV SkyWest DEN Virgin ANC Virgin ILE 
+ANC 5 United GRR SkyWest JAN SkyWest LEX Virgin SNS Virgin MEM 
+EWR 11 United TUS United SNA United RIC Delta RFD Delta DET Delta OXR Alaska SHV Alaska DSM Southwest TOA JetBlue SJC JetBlue DAY 
+CRP 7 Delta CSG Southwest SJC JetBlue SFO JetBlue SPI JetBlue W39 SkyWest OJC SkyWest MOB 
+SCK 5 Delta FLL Delta SLE Southwest W39 Southwest FUL Southwest EMT 
+RAL 3 Alaska CHS Alaska ANC JetBlue FTW 
+TOL 3 Alaska CLT Alaska MOB SkyWest ARR 
+PIT 2 JetBlue SFF JetBlue TUS 
+BFL 11 United LAX United OMA Delta AMA Delta ARB Delta FWA Alaska LAS Southwest TOP SkyWest OKC Virgin BTR Virgin BIL Virgin AUS 
+CVG 6 United SNS Southwest MEM Southwest ABE Virgin TIW Virgin DET Virgin ROC 
+TPA 7 United ORH United NGU Delta DEN Southwest GRR Southwest LGB Southwest ABI SkyWest LAN 
+SNA 10 United CLT Delta HFD Delta RNO Delta BFL Southwest LZK Southwest ICT Southwest BOI Virgin ORL Virgin VIS Virgin IND 
+STL 9 United ERI Delta ABI Delta COS Delta ARR Alaska JAN Alaska DAY SkyWest FWA SkyWest ILE SkyWest ELP 
+ICT 11 United AMA United SDL United LNK Alaska SAT Alaska MKC Alaska TYS SkyWest SFO SkyWest TOA SkyWest LZK Virgin TOA Virgin DCA 
+HNL 3 Southwest ARB JetBlue GRR JetBlue MOD 
+RDU 11 United EUG Alaska PMD Alaska FAT Southwest ILE Southwest SPI Southwest BOS SkyWest TOL SkyWest EMT Virgin MKE Virgin LRD Virgin BOS 
+COS 9 United HWD United JAX United SYR Delta GRR Southwest FTW Southwest ORL SkyWest SGF SkyWest OXR Virgin STS 
+MSP 3 SkyWest CLT SkyWest SDL Virgin TYS 
+TUL 1 JetBlue SDL 
+OAK 8 United RAL United MSP United MAF Alaska PDX Alaska CLE Virgin LNK Virgin LAN Virgin JAX 
+MIA 8 Delta LGB Alaska EMT Alaska CHI Southwest AMA Southwest TUS Southwest TOL SkyWest CVG SkyWest LOU 
+OMA 7 United PIE United DET JetBlue BUR JetBlue CHA JetBlue TOP Virgin MOB Virgin DAY 
+CLE 8 United ARR JetBlue HSV SkyWest HVN SkyWest DAY SkyWest NGU Virgin TUS Virgin CKV Virgin LEX 
+MKC 3 JetBlue MAF JetBlue TLH JetBlue DET 
+SMF 1 Southwest PHL 
+LGB 10 United IND United MGM Delta LOU Delta PHF SkyWest FTW SkyWest CLE SkyWest LAS Virgin SAT Virgin SPI Virgin BNA 
+FAT 10 Delta HSV Delta HVN Delta ELP Alaska BHM Southwest MOB Southwest STL Southwest BHM SkyWest BTR SkyWest SAT SkyWest WJF 
+ABQ 4 JetBlue LEX JetBlue CCR JetBlue PHL SkyWest LAX 
+ATL 5 United EMT Delta TUL Delta OMA JetBlue EMT Virgin ORH 
+TUS 7 United PVU United COS United FSD Alaska PIA SkyWest CID SkyWest BHM Virgin GRB 
+OKC 8 Delta DAY Delta CCR JetBlue NGU JetBlue SMF JetBlue ANC Virgin AGS Virgin OAK Virgin ICT 
+PDX 10 United CID United ELP United PHX Southwest STS JetBlue CHI SkyWest LGB SkyWest RDU SkyWest MSP Virgin CCR Virgin CLT 
+LOU 6 Delta SFO Delta HWD Alaska BIL JetBlue MSN JetBlue TIW JetBlue RDU 
+LAS 9 Alaska SNA Alaska ONT Southwest SNA Southwest DSM Southwest COS SkyWest CAE Virgin LFT Virgin OMA Virgin OJC 
+DCA 6 Alaska PHF Southwest MAF Southwest CKV Southwest PIT JetBlue DAL JetBlue BNA 
+DEN 12 United ABE United TIW Delta SNA Delta MAF Delta PUB Alaska CSG Alaska PVD Alaska ERI Southwest ARR Southwest LEX JetBlue ATL SkyWest SLE 
+BNA 8 Delta MSP Delta LEX Delta SMF JetBlue MSP JetBlue SNA Virgin MGM Virgin HWD Virgin BDR 
+SEA 14 United BRO Delta ILE Delta SDL Delta TOA Southwest AGS JetBlue STS JetBlue FAT JetBlue LAN SkyWest AMA SkyWest BFL SkyWest ICT Virgin FAY Virgin NGU Virgin LBB 
+BOS 4 Alaska HVN Alaska RAL Alaska MAF SkyWest CSG 
+MKE 5 Alaska EWR Alaska ABI Alaska ORH SkyWest ONT SkyWest ORH 
+ELP 5 Alaska MGM JetBlue BHM JetBlue FSD JetBlue SEA SkyWest TUS 
+BAL 11 United SEA United FWA United BTR Alaska LAX Alaska MHT Southwest PVD Southwest TIW JetBlue EVV Virgin CRP Virgin SJC Virgin FNT 
+CLT 14 United SFO Delta LNK Delta SHV Delta SCK Alaska CHA Alaska SDM Southwest SMF Southwest PHF SkyWest LBB SkyWest ORL SkyWest DET Virgin PVU Virgin EUG Virgin HSV 
+MEM 6 Delta CMH Alaska AUS Alaska DEN SkyWest PIT SkyWest SHV SkyWest NYC 
+FTW 6 SkyWest COS SkyWest SNS SkyWest PVU Virgin SNA Virgin PDX Virgin EMT 
+AUS 4 Delta ANC Delta EVV Delta LAS Alaska CID 
+CMH 5 Alaska W39 Alaska OJC Alaska RDU Virgin CHI Virgin ARB 
+SFO 10 United CHI United SDM United RFD Southwest CSG Southwest CHI JetBlue COS JetBlue BFL Virgin BFL Virgin GNV Virgin LZK 
+IND 11 United RNO United LRD Southwest DCA Southwest FSD Southwest CRP JetBlue PIE JetBlue LRD JetBlue ABQ SkyWest BDR Virgin AMA Virgin IAH 
+JAX 5 United BAL United SFF United DAY Delta CHS Delta TYS 
+DET 12 United MIA Alaska BUF Alaska CAE Alaska ELP Southwest LFT Southwest PHX Southwest SAT JetBlue NYC JetBlue SDM SkyWest HNL SkyWest SCK SkyWest W39 
+SJC 6 United LOU Alaska FNT Alaska LEX JetBlue STL SkyWest PHL SkyWest PIA 
+DAL 5 United SLC United SAT United DEN JetBlue SLE JetBlue BOI 
+SDM 12 United MSN United LAN United ATL Southwest RDU Southwest SNS Southwest BDR SkyWest OAK SkyWest OMA SkyWest AGS Virgin EVV Virgin CID Virgin BAL 
+SAT 8 United CAE United PHL United WJF Southwest HFD Southwest ERI Southwest LBB Virgin ARR Virgin TPA 
+PHL 7 Delta SNS Delta PVU Southwest LAN Southwest FAT Southwest ORH JetBlue LAS JetBlue ARB 
+PHX 8 Alaska HFD Alaska FTW Southwest HVN Southwest RNO JetBlue RNO JetBlue ONT JetBlue ROC SkyWest BIL 
+IAH 6 United CHA Alaska PIE Southwest EVV SkyWest CHI SkyWest ABQ Virgin CVG 
+CHI 9 United SHV United OXR United CLE Delta DCA Delta MHT Delta SFF Alaska JAX Alaska SMF SkyWest PMD 
+LAX 6 United ARB United OAK Southwest BNA Southwest HWD Southwest NGU SkyWest CMH 
+NYC 0 

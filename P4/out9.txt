@@ -1,0 +1,176 @@
+
+
+
+
+0. Done.
+0. Done.
+1. Determine distance and passengers between two airports.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+2. Determine all traffic from one airport.
+3. Display planes information.
+3. Display planes information.
+4. Add plane information.
+4. Add plane information.
+5. Determine best plane between two airports.
+5. Determine best plane between two airports.
+Abilene, Texas: 178
+Albuquerque, New Mexico: 794
+Allentown, Pennsylvania: 164
+Amarillo, Texas: 285
+Anchorage, Alaska: 428
+Ann Arbor, Michigan: 176
+Athens, Georgia: 172
+Atlanta, Georgia: 796
+Augusta, Georgia: 294
+Aurora, Illinois: 262
+Austin, Texas: 1139
+Bakersfield, California: 484
+Baltimore, Maryland: 977
+Baton Rouge, Louisiana: 348
+Billings, Montana: 156
+Birmingham, Alabama: 352
+Boise, Idaho: 311
+Boston, Massachusetts: 919
+Bridgeport, Connecticut: 209
+Brownsville, Texas: 265
+Buffalo, New York: 418
+Burbank, California: 0
+Cedar Rapids, Iowa: 193
+Charleston, South Carolina: 168
+Charlotte, North Carolina: 1030
+Chattanooga, Tennessee: 260
+Chesapeake, Virginia: 336
+Chicago, Illinois: 4350
+Cincinnati, Ohio: 509
+Clarksville, Tennessee: 182
+Cleveland, Ohio: 671
+Colorado Springs, Colorado: 577
+Columbia, South Carolina: 191
+Columbus, Georgia: 286
+Columbus, Ohio: 1146
+Concord, California: 185
+Corpus Christi, Texas: 437
+Dallas, Texas: 1902
+Dayton, Ohio: 238
+Denver, Colorado: 902
+Des Moines, Iowa: 302
+Detroit, Michigan: 1406
+El Monte, California: 0
+El Paso, Texas: 930
+Erie, Pennsylvania: 158
+Eugene, Oregon: 228
+Evansville, Indiana: 178
+Fayetteville, North Carolina: 263
+Flight Simulator Menu
+Flight Simulator Menu
+Flint, Michigan: 175
+Fort Lauderdale, Florida: 281
+Fort Wayne, Indiana: 385
+Fort Worth, Texas: 1045
+Fresno, California: 721
+Fullerton, California: 0
+Gainesville, Florida: 175
+Grand Rapids, Michigan: 296
+Green Bay, Wisconsin: 154
+Greensboro, North Carolina: 379
+Hartford, Connecticut: 191
+Hayward, California: 216
+Honolulu, Hawaii: 576
+Houston, Texas: 3386
+Huntsville, Alabama: 262
+Indianapolis, Indiana: 1220
+Jackson, Mississippi: 269
+Jacksonville, Florida: 1235
+Kansas City, Missouri: 690
+Killeen, Texas: 172
+Knoxville, Tennessee: 281
+Lafayette, Louisiana: 174
+Lancaster, California: 0
+Lansing, Michigan: 176
+Laredo, Texas: 333
+Las Vegas, Nevada: 857
+Lexington, Kentucky: 427
+Lincoln, Nebraska: 381
+Little Rock, Arkansas: 287
+Long Beach, California: 0
+Louisville, Kentucky: 855
+Lubbock, Texas: 333
+Madison, Wisconsin: 350
+Manchester, New Hampshire: 166
+Memphis, Tennessee: 1033
+Miami, Florida: 628
+Midland, Texas: 159
+Milwaukee, Wisconsin: 923
+Minneapolis, Minnesota: 578
+Mobile, Alabama: 293
+Modesto, California: 312
+Montgomery, Alabama: 313
+Nashville, Tennessee: 906
+Newark, New Jersey: 429
+New Haven, Connecticut: 190
+New Orleans, Louisiana: 366
+Newport News, Virginia: 274
+Norfolk, Virginia: 361
+Norman, Oklahoma: 163
+Oakland, California: 615
+Oklahoma City, Oklahoma: 839
+Olathe, Kansas: 181
+Omaha, Nebraska: 651
+Ontario, California: 0
+Orlando, Florida: 349
+Oxnard, California: 0
+Palmdale, California: 0
+Peoria, Illinois: 174
+Philadelphia, Pennsylvania: 2223
+Phoenix, Arizona: 2380
+Pittsburgh, Pennsylvania: 477
+Please enter an airport abbreviation (XXX): New York City, New York: 12690
+Portland, Oregon: 844
+Providence, Rhode Island: 264
+Provo, Utah: 180
+Pueblo, Colorado: 159
+Raleigh, North Carolina: 576
+Reno, Nevada: 329
+Richmond, Virginia: 306
+Riverside, California: 0
+Rochester, New York: 317
+Rockford, Illinois: 240
+Sacramento, California: 705
+Salem, Oregon: 232
+Salinas, California: 220
+Salt Lake City, Utah: 277
+San Antonio, Texas: 2038
+San Diego, California: 1942
+San Francisco, California: 1173
+San Jose, California: 1441
+Santa Ana, California: 0
+Santa Rosa, California: 236
+Scottsdale, Arizona: 361
+Seattle, Washington: 911
+Shreveport, Louisiana: 306
+Sioux Falls, South Dakota: 232
+South Bend, Indiana: 159
+Spokane, Washington: 308
+Springfield, Illinois: 179
+Springfield, Missouri: 237
+St. Louis, Missouri: 537
+Stockton, California: 440
+St. Petersburg, Florida: 377
+Syracuse, New York: 213
+Tacoma, Washington: 301
+Tallahassee, Florida: 259
+Tampa, Florida: 516
+Toledo, Ohio: 452
+Topeka, Kansas: 188
+Torrance, California: 0
+Total passengers: 91193
+Tucson, Arizona: 806
+Tulsa, Oklahoma: 589
+Visalia, California: 181
+Washington, District of Columbia: 902
+Wichita, Kansas: 554
+Winston-Salem, North Carolina: 330
+Worcester, Massachusetts: 266
+Your choice (0 - 5): 
+Your choice (0 - 5): 

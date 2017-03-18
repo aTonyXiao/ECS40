@@ -1,0 +1,22 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): Passengers Miles  Trips Name      Cost
+1173       339    4     787-3     $28057
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 

@@ -1,0 +1,18 @@
+
+Please enter two airport abbreviations (XXX XXX = done): TOO_LONG is not a valid airport.
+
+Please enter two airport abbreviations (XXX XXX = done): 11732 passengers fly the 339 miles from
+San Francisco,California to Los Angeles,California
+
+Please enter two airport abbreviations (XXX XXX = done): TOO_LONG2 is not a valid airport.
+
+Please enter two airport abbreviations (XXX XXX = done): 11732 passengers fly the 339 miles from
+San Francisco,California to Los Angeles,California
+
+Please enter two airport abbreviations (XXX XXX = done): TOO_LONG3 is not a valid airport.
+TOO_LONG4 is not a valid airport.
+
+Please enter two airport abbreviations (XXX XXX = done): 11732 passengers fly the 339 miles from
+San Francisco,California to Los Angeles,California
+
+Please enter two airport abbreviations (XXX XXX = done): 

@@ -1,0 +1,15 @@
+Enter upper bound:
+3 is a prime
+5 is a prime
+7 is a prime
+11 is a prime
+13 is a prime
+17 is a prime
+19 is a prime
+23 is a prime
+29 is a prime
+31 is a prime
+37 is a prime
+41 is a prime
+43 is a prime
+47 is a prime

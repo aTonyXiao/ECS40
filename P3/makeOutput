@@ -1,0 +1,4 @@
+g++ -ansi -Wall -g -c -lm city.cpp
+g++ -ansi -Wall -g -c main.cpp
+g++ -ansi -Wall -g -c vector.cpp
+g++ -ansi -Wall -g -o simulator.out city.o main.o vector.o  

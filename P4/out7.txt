@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+
+
+0. Done.
+0. Done.
+0. Done.
+0. Done.
+0. Done.
+1. Determine distance and passengers between two airports.
+1. Determine distance and passengers between two airports.
+1. Determine distance and passengers between two airports.
+1. Determine distance and passengers between two airports.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+2. Determine all traffic from one airport.
+2. Determine all traffic from one airport.
+2. Determine all traffic from one airport.
+2. Determine all traffic from one airport.
+3. Display planes information.
+3. Display planes information.
+3. Display planes information.
+3. Display planes information.
+3. Display planes information.
+4. Add plane information.
+4. Add plane information.
+4. Add plane information.
+4. Add plane information.
+4. Add plane information.
+5. Determine best plane between two airports.
+5. Determine best plane between two airports.
+5. Determine best plane between two airports.
+5. Determine best plane between two airports.
+5. Determine best plane between two airports.
+Abilene, Texas: 8
+Albuquerque, New Mexico: 37
+Allentown, Pennsylvania: 7
+Amarillo, Texas: 13
+Anchorage, Alaska: 20
+Ann Arbor, Michigan: 8
+Athens, Georgia: 8
+Atlanta, Georgia: 37
+Augusta, Georgia: 13
+Aurora, Illinois: 12
+Austin, Texas: 53
+Bakersfield, California: 22
+Baltimore, Maryland: 46
+Baton Rouge, Louisiana: 16
+Billings, Montana: 7
+Birmingham, Alabama: 16
+Boise, Idaho: 14
+Boston, Massachusetts: 43
+Bridgeport, Connecticut: 9
+Brownsville, Texas: 12
+Buffalo, New York: 19
+Burbank, California: 7
+Cedar Rapids, Iowa: 9
+Charleston, South Carolina: 7
+Charlotte, North Carolina: 48
+Chattanooga, Tennessee: 12
+Chesapeake, Virginia: 15
+Chicago, Illinois: 204
+Cincinnati, Ohio: 24
+Clarksville, Tennessee: 8
+Cleveland, Ohio: 31
+Colorado Springs, Colorado: 27
+Columbia, South Carolina: 9
+Columbus, Georgia: 13
+Columbus, Ohio: 54
+Concord, California: 8
+Corpus Christi, Texas: 20
+Dallas, Texas: 89
+Dayton, Ohio: 11
+Denver, Colorado: 42
+Denver, Colorado to Seattle, Washington.
+Des Moines, Iowa: 14
+Detroit, Michigan: 66
+El Monte, California: 8
+El Paso, Texas: 43
+Erie, Pennsylvania: 7
+Eugene, Oregon: 10
+Evansville, Indiana: 8
+Fayetteville, North Carolina: 12
+Flight Simulator Menu
+Flight Simulator Menu
+Flight Simulator Menu
+Flight Simulator Menu
+Flight Simulator Menu
+Flint, Michigan: 8
+Fort Lauderdale, Florida: 13
+Fort Wayne, Indiana: 18
+Fort Worth, Texas: 49
+Fresno, California: 33
+Fullerton, California: 9
+Gainesville, Florida: 8
+Grand Rapids, Michigan: 13
+Green Bay, Wisconsin: 7
+Greensboro, North Carolina: 17
+Hartford, Connecticut: 9
+Hayward, California: 10
+Honolulu, Hawaii: 27
+Houston, Texas: 159
+Huntsville, Alabama: 12
+Indianapolis, Indiana: 57
+Jackson, Mississippi: 12
+Jacksonville, Florida: 58
+Kansas City, Missouri: 32
+Killeen, Texas: 8
+Knoxville, Tennessee: 13
+Lafayette, Louisiana: 8
+Lancaster, California: 10
+Lansing, Michigan: 8
+Laredo, Texas: 15
+Las Vegas, Nevada: 40
+Lexington, Kentucky: 20
+Lincoln, Nebraska: 17
+Little Rock, Arkansas: 13
+Long Beach, California: 33
+Los Angeles, California: 277
+Louisville, Kentucky: 40
+Lubbock, Texas: 15
+Madison, Wisconsin: 16
+Manchester, New Hampshire: 7
+Memphis, Tennessee: 48
+Miami, Florida: 29
+Midland, Texas: 7
+Milwaukee, Wisconsin: 43
+Minneapolis, Minnesota: 27
+Mobile, Alabama: 13
+Modesto, California: 14
+Montgomery, Alabama: 14
+Nashville, Tennessee: 42
+Newark, New Jersey: 20
+New Haven, Connecticut: 8
+New Orleans, Louisiana: 17
+Newport News, Virginia: 12
+Norfolk, Virginia: 17
+Norman, Oklahoma: 7
+Oakland, California: 29
+Oklahoma City, Oklahoma: 39
+Olathe, Kansas: 8
+Omaha, Nebraska: 30
+Ontario, California: 12
+Orlando, Florida: 16
+Oxnard, California: 13
+Palmdale, California: 10
+Peoria, Illinois: 8
+Philadelphia, Pennsylvania: 104
+Phoenix, Arizona: 112
+Pittsburgh, Pennsylvania: 22
+Please enter an airport abbreviation (XXX): MIS is not a valid airport.
+Please enter an airport abbreviation (XXX): New York City, New York: 597
+Please enter two airport abbreviations (XXX XXX): 139 passengers fly the 1019 miles from
+Please enter two airport abbreviations (XXX XXX): ORD is not a valid airport.
+Portland, Oregon: 39
+Providence, Rhode Island: 12
+Provo, Utah: 0
+Pueblo, Colorado: 7
+Raleigh, North Carolina: 27
+Reno, Nevada: 15
+Richmond, Virginia: 14
+Riverside, California: 21
+Rochester, New York: 14
+Rockford, Illinois: 11
+Sacramento, California: 33
+Salem, Oregon: 10
+Salinas, California: 10
+San Antonio, Texas: 96
+San Diego, California: 91
+San Francisco, California: 55
+San Jose, California: 67
+Santa Ana, California: 24
+Santa Rosa, California: 11
+Scottsdale, Arizona: 17
+Seattle, Washington: 42
+Shreveport, Louisiana: 14
+Sioux Falls, South Dakota: 10
+South Bend, Indiana: 7
+Spokane, Washington: 14
+Springfield, Illinois: 8
+Springfield, Missouri: 11
+St. Louis, Missouri: 25
+Stockton, California: 20
+St. Petersburg, Florida: 17
+Syracuse, New York: 10
+Tacoma, Washington: 14
+Tallahassee, Florida: 12
+Tampa, Florida: 24
+Toledo, Ohio: 21
+Topeka, Kansas: 8
+Torrance, California: 10
+Total passengers: 4643
+Tucson, Arizona: 37
+Tulsa, Oklahoma: 27
+Visalia, California: 8
+Washington, District of Columbia: 42
+Wichita, Kansas: 26
+Winston-Salem, North Carolina: 15
+Worcester, Massachusetts: 12
+Your choice (0 - 5): 
+Your choice (0 - 5): 
+Your choice (0 - 5): 
+Your choice (0 - 5): 
+Your choice (0 - 5): 

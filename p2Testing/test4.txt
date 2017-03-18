@@ -1,0 +1,30 @@
+#ifndef appointmentH
+#ifndef BTREE_H
+#ifndef BTreeNodeH
+#ifndef COURSES_H
+#ifndef CPUTIMER_H
+#ifndef _CursorList_H
+#ifndef dayH
+#ifndef dayofweekH
+        #ifndef _DSEXCEPTIONS_H_
+        #ifndef _DSEXCEPTIONS_H_
+#ifndef InternalNodeH
+#ifndef LeafNodeH
+        #ifndef _LinkedList_H
+                                                     #ifndef NO_CHECK
+                                                     #ifndef NO_CHECK
+                                                     #ifndef NO_CHECK
+    #ifndef NO_CHECK
+        #ifndef _QUEUEAR_H
+        #ifndef _QUEUEAR_H
+        #ifndef _QUEUELL_H
+#ifndef SKIPLIST_H 
+        #ifndef _STACKAR_H
+        #ifndef _STACKLI_H
+#ifndef timeH
+#ifndef _VECTOR_CPP_
+#ifndef _VECTOR_CPP_
+#ifndef _VECTOR_H
+#ifndef _VECTOR_H
+#ifndef VECTOR_H
+#ifndef yearH

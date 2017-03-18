@@ -1,0 +1,32 @@
+Scores from p1 for Bohan, Xiao Jing, Peng 
+Addresses used: bxiao@ucdavis.edu jcpeng@ucdavis.edu  
+grepdir.sh testing
+1: OK
+2: OK
+3: OK
+4: OK
+5: OK
+6: OK
+7: OK
+
+cpdirs.sh testing
+11: OK
+12: OK
+13: OK
+14: OK
+
+makemake.sh testing:
+31: OK
+32: OK
+33: OK
+
+gdb files fixed?
+OK
+Note: though this script will accept any typescript as valid now,
+the actual script will have more insightful tests of submitted typescripts.
+
+grepdirScore: 7 out of 7
+cpdirsScore: 8 out of 8
+makemakeScore: 21 out of 21
+gdbScore: 10 out of 10
+totalScore: 46 out of 46

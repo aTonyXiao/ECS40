@@ -1,0 +1,2 @@
+//     } while (next_permutation(line.begin(), line.end()));
+    } while (next_permutation(line.begin(), line.end()));

@@ -1,0 +1,1 @@
+  virtual void write(ostream& os) const = 0;

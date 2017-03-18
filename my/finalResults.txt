@@ -1,0 +1,8 @@
+Scores from p1 for Bohan, Xiao Jing, Peng 
+Addresses used: bxiao@ucdavis.edu jcpeng@ucdavis.edu  
+Style: 9 out of 9
+Design: 23 out of 23
+Const: 7 out of 7
+Operation: 11 out of 11
+Warnings (subtracted final score down to zero): 0
+Total: 50 out of 50.

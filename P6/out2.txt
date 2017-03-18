@@ -1,0 +1,31 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Plane Information
+Name        Pass. Range Speed Fuel   MPG   $/mi  Price * 10^6
+737-800     189   1,530 524    3,437 0.445  7.62 $ 67.8
+747-600     524   3,630 567   28,642 0.127 26.75 $216.0
+767-300ER   350   2,987 530   11,990 0.249 13.61 $134.0
+777-300     550   3,007 560   22,610 0.133 25.49 $212.0
+787-3       330   1,525 587    5,543 0.275 12.32 $130.0
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 

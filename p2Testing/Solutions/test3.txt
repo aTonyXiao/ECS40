@@ -1,0 +1,1 @@
+usage: grepdir.sh directory pattern [-grep option]*

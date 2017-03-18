@@ -1,0 +1,210 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): 139 passengers fly the 1019 miles from
+Denver, Colorado to Seattle, Washington.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter an airport abbreviation (XXX): MIS is not a valid airport.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter two airport abbreviations (XXX XXX): ORD is not a valid airport.
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Please enter an airport abbreviation (XXX): New York City, New York: 597
+Los Angeles, California: 277
+Chicago, Illinois: 204
+Houston, Texas: 159
+Phoenix, Arizona: 112
+Philadelphia, Pennsylvania: 104
+San Antonio, Texas: 96
+San Diego, California: 91
+Dallas, Texas: 89
+San Jose, California: 67
+Detroit, Michigan: 66
+Jacksonville, Florida: 58
+Indianapolis, Indiana: 57
+San Francisco, California: 55
+Columbus, Ohio: 54
+Austin, Texas: 53
+Fort Worth, Texas: 49
+Memphis, Tennessee: 48
+Charlotte, North Carolina: 48
+Baltimore, Maryland: 46
+El Paso, Texas: 43
+Milwaukee, Wisconsin: 43
+Boston, Massachusetts: 43
+Seattle, Washington: 42
+Nashville, Tennessee: 42
+Denver, Colorado: 42
+Washington, District of Columbia: 42
+Las Vegas, Nevada: 40
+Louisville, Kentucky: 40
+Portland, Oregon: 39
+Oklahoma City, Oklahoma: 39
+Tucson, Arizona: 37
+Atlanta, Georgia: 37
+Albuquerque, New Mexico: 37
+Fresno, California: 33
+Long Beach, California: 33
+Sacramento, California: 33
+Kansas City, Missouri: 32
+Cleveland, Ohio: 31
+Omaha, Nebraska: 30
+Miami, Florida: 29
+Oakland, California: 29
+Tulsa, Oklahoma: 27
+Minneapolis, Minnesota: 27
+Colorado Springs, Colorado: 27
+Raleigh, North Carolina: 27
+Honolulu, Hawaii: 27
+Wichita, Kansas: 26
+St. Louis, Missouri: 25
+Santa Ana, California: 24
+Tampa, Florida: 24
+Cincinnati, Ohio: 24
+Bakersfield, California: 22
+Pittsburgh, Pennsylvania: 22
+Toledo, Ohio: 21
+Riverside, California: 21
+Stockton, California: 20
+Corpus Christi, Texas: 20
+Newark, New Jersey: 20
+Anchorage, Alaska: 20
+Lexington, Kentucky: 20
+Buffalo, New York: 19
+Fort Wayne, Indiana: 18
+Lincoln, Nebraska: 17
+Greensboro, North Carolina: 17
+St. Petersburg, Florida: 17
+New Orleans, Louisiana: 17
+Norfolk, Virginia: 17
+Scottsdale, Arizona: 17
+Birmingham, Alabama: 16
+Madison, Wisconsin: 16
+Orlando, Florida: 16
+Baton Rouge, Louisiana: 16
+Chesapeake, Virginia: 15
+Laredo, Texas: 15
+Lubbock, Texas: 15
+Winston-Salem, North Carolina: 15
+Reno, Nevada: 15
+Rochester, New York: 14
+Montgomery, Alabama: 14
+Modesto, California: 14
+Boise, Idaho: 14
+Spokane, Washington: 14
+Richmond, Virginia: 14
+Shreveport, Louisiana: 14
+Des Moines, Iowa: 14
+Tacoma, Washington: 14
+Grand Rapids, Michigan: 13
+Augusta, Georgia: 13
+Mobile, Alabama: 13
+Little Rock, Arkansas: 13
+Columbus, Georgia: 13
+Amarillo, Texas: 13
+Oxnard, California: 13
+Fort Lauderdale, Florida: 13
+Knoxville, Tennessee: 13
+Newport News, Virginia: 12
+Jackson, Mississippi: 12
+Worcester, Massachusetts: 12
+Brownsville, Texas: 12
+Providence, Rhode Island: 12
+Fayetteville, North Carolina: 12
+Huntsville, Alabama: 12
+Ontario, California: 12
+Aurora, Illinois: 12
+Chattanooga, Tennessee: 12
+Tallahassee, Florida: 12
+Rockford, Illinois: 11
+Dayton, Ohio: 11
+Springfield, Missouri: 11
+Santa Rosa, California: 11
+Salem, Oregon: 10
+Sioux Falls, South Dakota: 10
+Eugene, Oregon: 10
+Lancaster, California: 10
+Salinas, California: 10
+Torrance, California: 10
+Hayward, California: 10
+Palmdale, California: 10
+Syracuse, New York: 10
+Bridgeport, Connecticut: 9
+Fullerton, California: 9
+Cedar Rapids, Iowa: 9
+Columbia, South Carolina: 9
+Hartford, Connecticut: 9
+New Haven, Connecticut: 8
+Topeka, Kansas: 8
+El Monte, California: 8
+Concord, California: 8
+Clarksville, Tennessee: 8
+Visalia, California: 8
+Olathe, Kansas: 8
+Provo, Utah: 0
+Springfield, Illinois: 8
+Evansville, Indiana: 8
+Abilene, Texas: 8
+Ann Arbor, Michigan: 8
+Lansing, Michigan: 8
+Flint, Michigan: 8
+Gainesville, Florida: 8
+Peoria, Illinois: 8
+Lafayette, Louisiana: 8
+Athens, Georgia: 8
+Killeen, Texas: 8
+Charleston, South Carolina: 7
+Manchester, New Hampshire: 7
+Allentown, Pennsylvania: 7
+Norman, Oklahoma: 7
+South Bend, Indiana: 7
+Midland, Texas: 7
+Pueblo, Colorado: 7
+Erie, Pennsylvania: 7
+Burbank, California: 7
+Billings, Montana: 7
+Green Bay, Wisconsin: 7
+Total passengers: 4643
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 

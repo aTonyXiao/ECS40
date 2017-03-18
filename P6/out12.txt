@@ -1,0 +1,142 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: Un-COS Un-HWD Un-GRB Un-OJC Un-CHS Un-SCK 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: De-SEA De-ILE De-BOI De-CRP De-CSG De-FUL 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: Al-DET Al-BUF Al-TUS Al-PIA Al-ARR Al-TPA 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: So-SCK So-W39 So-ROC So-CCR So-DET So-LFT 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: Je-SBN Je-BRO Je-INT Je-LBB Je-EUG Je-GSO 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: Sk-BIL Sk-PDX Sk-LGB Sk-FTW Sk-COS Sk-SGF 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: Vi-JAN Vi-FTW Vi-SNA Vi-ORL Vi-BHM Vi-NEW 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: Un-NEW Un-EWR Un-TUS Un-PVU Un-CCR Un-ICT 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: De-DSM De-ORL De-CLT De-LNK De-AUS De-ANC 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 
+Please enter origin destination and an airline: Al-NGU Al-SYR Al-LAN Al-AHN Al-EUG Al-COS 
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+6. Show airline flights.
+7. Determine route between two airports.
+
+Your choice (0 - 7): 

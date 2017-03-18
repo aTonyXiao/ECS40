@@ -1,0 +1,37 @@
+Scores from p1 for You need to create an authors.txt file!!!! No one will receive credit for this assignment
+
+Addresses used:  
+grepdir.sh testing
+No grepdir.sh
+
+cpdirs.sh testing
+No cpdirs.sh
+
+makemake.sh testing:
+No makemake.sh
+
+gdb files fixed?
+
+Yours: 
+Enter upper bound:
+3 is a prime
+5 is a prime
+7 is a prime
+11 is a prime
+13 is a prime
+17 is a prime
+19 is a prime
+23 is a prime
+29 is a prime
+31 is a prime
+37 is a prime
+41 is a prime
+43 is a prime
+47 is a prime
+
+Seans: 
+grepdirScore: 0 out of 7
+cpdirsScore: 0 out of 8
+makemakeScore: 0 out of 21
+gdbScore: 0 out of 10
+totalScore: 0 out of 46

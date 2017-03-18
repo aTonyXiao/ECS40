@@ -1,0 +1,286 @@
+#! /bin/bash
+
+rm -f results* test*.txt  &> /dev/null
+rm -rf TempFiles*  &> /dev/null
+touch  TestFiles/appointment.cpp   TestFiles/appointment.h  TestFiles/day.cpp   TestFiles/day.h  TestFiles/dayofweek.h  TestFiles/year.cpp
+touch   TestFiles2/calendar.cpp  TestFiles2/dayofweek.cpp   TestFiles2/time.cpp   TestFiles2/time.h   TestFiles2/year.h
+
+
+echo -n "Scores from p1 for " > results.txt
+
+if [ -e authors.txt ]; then
+  dos2unix authors.txt
+  awk {'for (i = 2; i <= NF; ++i) printf"%s ", $i'} authors.txt >> results.txt
+  echo -e "\n"
+  awk 'NR < 3 {for (i = 2; i <= NF; ++i) printf"%s", $i; printf"\n";}' authors.txt > names.txt
+  awk {'printf"%s ", $1'} authors.txt > addresses
+else
+  echo  "You need to create an authors.txt file!!!! No one will receive credit for this assignment"  >> results.txt
+#  echo "$1@ucdavis.edu" > addresses
+#  finger ${PWD##*/} | awk 'NR == 1 {printf"%s,%s", $5, $4}' > names.txt
+fi
+
+
+echo -en "\nAddresses used: " >> results.txt
+
+cat addresses >> results.txt
+echo " " >> results.txt
+
+echo "Checking grepdir.sh"
+echo grepdir.sh testing >> results.txt
+grepdirScore=0
+
+if [ -e grepdir.sh ]; then
+  echo -n "1: "  >> results.txt
+  > test1.txt grepdir.sh first ifndef 
+  diff test1.txt Solutions/test1.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test1.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test1.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++grepdirScore ))
+  fi
+ 
+  echo -n "2: "  >> results.txt
+  > test2.txt grepdir.sh .
+  diff test2.txt Solutions/test2.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test2.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test2.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++grepdirScore ))
+  fi
+
+  echo -n "3: "  >> results.txt
+  > test3.txt grepdir.sh 
+  diff test3.txt Solutions/test3.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test3.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test3.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++grepdirScore ))
+  fi
+
+  echo -n "4: "  >> results.txt
+  grepdir.sh TestFiles ifndef | sort > test4.txt
+  diff test4.txt Solutions/test4.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test4.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test4.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++grepdirScore ))
+  fi
+
+  echo -n "5: "  >> results.txt
+  grepdir.sh TestFiles ifndef -l  | sort > test5.txt
+  diff test5.txt Solutions/test5.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test5.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test5.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++grepdirScore ))
+  fi
+
+ echo -n "6: "  >> results.txt
+  grepdir.sh TestFiles IFNDEF -l -i | sort > test6.txt
+  diff test6.txt Solutions/test6.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test6.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test6.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++grepdirScore ))
+  fi
+
+ echo -n "7: "  >> results.txt
+  grepdir.sh TestFiles IFNDEF | sort > test7.txt
+  diff test7.txt Solutions/test7.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test7.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test7.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++grepdirScore ))
+  fi
+else
+  echo No grepdir.sh >> results.txt
+fi
+
+
+
+echo -e "\ncpdirs.sh testing" >> results.txt
+echo "Checking cpdirs.sh"
+cpdirsScore=0
+
+if [ -e cpdirs.sh ]; then
+  echo -n "11: "  >> results.txt
+  cpdirs.sh TestFiles | sort > test11.txt 
+  diff test11.txt Solutions/test11.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test11.txt  >> results.txt
+    echo -e "\nSeans: " >> results 
+    cat Solutions/test11.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++cpdirsScore ))
+  fi
+ 
+  echo -n "12: "  >> results.txt
+  > test12.txt cpdirs.sh . TestFiles
+  diff test12.txt Solutions/test12.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test12.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test12.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++cpdirsScore ))
+  fi
+
+  echo -n "13: "  >> results.txt
+  > test13.txt cpdirs.sh first TestFiles 
+  diff test13.txt Solutions/test13.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test13.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test13.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( ++cpdirsScore ))
+  fi
+
+  echo -n "14: "  >> results.txt
+  rm -rf tempdir &> /dev/null
+  mkdir tempdir
+  cpdirs.sh TestFiles TestFiles2 tempdir
+  head -1 tempdir/* | sort > test14.txt
+  diff test14.txt Solutions/test14.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat test14.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/test14.txt >> results.txt
+  else
+    echo OK >> results.txt
+    (( cpdirsScore+=5 ))
+  fi
+else
+  echo No cpdirs.sh >> results.txt
+fi
+
+
+makemakeScore=0
+echo "Checking makemake.sh"
+echo -e "\nmakemake.sh testing:" >> results.txt
+
+if [ -e makemake.sh ]; then
+  rm MakeFiles/makemake.sh &> /dev/null
+  cp makemake.sh  MakeFiles
+  cd MakeFiles
+  rm *akefile temp &> /dev/null
+  echo -n "31: "  >> ../results.txt
+  makemake.sh &> ../test31.txt 
+  diff ../test31.txt ../Solutions/test31.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> ../results.txt
+    cat ../test31.txt  >> ../results.txt
+    echo -e "\nSeans: " >> ../results.txt 
+    cat ../Solutions/test31.txt >> ../results.txt
+  else
+    echo OK >> ../results.txt
+    (( ++makemakeScore ))
+  fi
+ 
+  echo -n "32: "  >> ../results.txt
+  makemake.sh appt.out
+  mv *akefile ../test32.txt
+  diff -b ../test32.txt ../Solutions/test32.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> ../results.txt
+    cat ../test32.txt  >> ../results.txt
+    echo -e "\nSeans: " >> ../results.txt
+    cat ../Solutions/test32.txt >> ../results.txt
+  else
+    echo OK >> ../results.txt
+    (( makemakeScore+=10 ))
+  fi
+
+  echo -n "33: "  >> ../results.txt
+  rm *akefile &> /dev/null
+  makemake.sh appt1.out -O2 -pg
+  mv *akefile ../test33.txt
+  diff -b ../test33.txt ../Solutions/test33.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> ../results.txt
+    cat ../test33.txt  >> ../results.txt
+    echo -e "\nSeans: " >> ../results.txt
+    cat ../Solutions/test33.txt >> ../results.txt
+  else
+    echo OK >> ../results.txt
+    (( makemakeScore+=10 ))
+  fi
+  
+  cd ..
+else
+  echo No makemake.sh >> results.txt
+fi
+
+gdbScore=0
+echo "Checking gdb files"
+echo -e "\ngdb files fixed?" >> results.txt
+gcc main.c prime.c
+if [ -e a.out ]; then
+  (echo '50' | a.out &> out41.txt)&
+  sleep 1
+  pkill a.out
+
+  diff -b out41.txt Solutions/out41.txt &> temp
+  if [ -s temp ]; then
+    echo -e "\nYours: " >> results.txt
+    cat out41.txt  >> results.txt
+    echo -e "\nSeans: " >> results.txt
+    cat Solutions/out41.txt >> results.txt
+  else
+    if [ ! -s typescript ]; then
+      echo "No typescript so zero for gdb."  >> results.txt
+    else
+      echo OK >> results.txt
+      echo "Note: though this script will accept any typescript as valid now," >> results.txt
+      echo -e  "the actual script will have more insightful tests of submitted typescripts.\n" >> results.txt 
+      gdbScore=10 
+    fi
+  fi
+else
+  echo No a.out >> results.txt
+fi
+
+totalScore=$(( $grepdirScore + $cpdirsScore + $makemakeScore + $gdbScore ))
+#echo $grepdirScore,$cpdirsScore,$makemakeScore,$gdbScore > results.csv 
+echo grepdirScore: $grepdirScore out of 7 >> results.txt
+echo cpdirsScore: $cpdirsScore out of 8 >> results.txt
+echo makemakeScore: $makemakeScore out of 21 >> results.txt
+echo gdbScore: $gdbScore out of 10 >> results.txt
+echo totalScore: $totalScore out of 46 >> results.txt
+

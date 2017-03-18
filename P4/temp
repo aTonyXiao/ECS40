@@ -1,0 +1,1 @@
+        << minTrips << setw(10) << planes[minIndex].getName() << '$' << minCost 

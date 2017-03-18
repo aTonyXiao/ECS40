@@ -1,0 +1,5 @@
+
+Please enter two airport abbreviations (XXX XXX = done): 41 passengers fly the 996 miles from
+Green Bay,Wisconsin to Billings,Montana
+
+Please enter two airport abbreviations (XXX XXX = done): 

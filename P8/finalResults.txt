@@ -1,0 +1,9 @@
+Scores from p8 for Xiao, Tony Peng, Jing 
+Note that names should be last name, then a comma, and then first name, e.g. Davis, Sean
+
+Addresses used: bxiao@ucdavis.edu jcpeng@ucdavis.edu  
+Style: 7 out of 7
+Design: 13 out of 13
+Operation: 30 out of 30
+Warnings (subtracted final score down to zero): 0
+Total: 50 out of 50.

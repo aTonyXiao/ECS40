@@ -1,0 +1,32 @@
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): Name: Passengers: Fuel capacity (in U.S. gallons): Range (in miles): Speed (in mph): Price: 
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 
+Plane Information
+Name        Pass. Range Speed Fuel   MPG   $/mi  Price * 10^6
+787-3       330   1,525 587    5,543 0.275 12.32 $130.0
+
+Flight Simulator Menu
+0. Done.
+1. Determine distance and passengers between two airports.
+2. Determine all traffic from one airport.
+3. Display planes information.
+4. Add plane information.
+5. Determine best plane between two airports.
+
+Your choice (0 - 5): 

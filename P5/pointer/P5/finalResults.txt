@@ -1,0 +1,12 @@
+As with p4, the Const checker will only be run after the deadline.
+You will receive a zero for consts until then.
+Scores from p5 for Xiao, Tony Peng, Jing 
+Note that names should be last name, then a comma, and then first name, e.g. Davis, Sean
+
+Addresses used: bxiao@ucdavis.edu jcpeng@ucdavis.edu  
+Style: 5 out of 5
+Design: 12 out of 12
+Const: 0 out of 5
+Operation: 13 out of 13
+Warnings (subtracted final score down to zero): 0
+Total: 30 out of 35.

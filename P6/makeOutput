@@ -1,0 +1,5 @@
+g++ -Wall -ansi -c city.cpp
+g++ -Wall -ansi -c main.cpp
+g++ -Wall -ansi -c plane.cpp
+g++ -Wall -ansi -c airport.cpp
+g++ -Wall -ansi -o simulator.out city.o main.o plane.o airport.o

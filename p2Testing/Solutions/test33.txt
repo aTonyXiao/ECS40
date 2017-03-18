@@ -1,0 +1,20 @@
+appt1.out : appointment.o calendar.o dayofweek.o time.o year.o  
+	g++ -ansi -Wall -g -o appt1.out -O2 -pg appointment.o calendar.o dayofweek.o time.o year.o  
+
+appointment.o : appointment.cpp appointment.h 
+	g++ -ansi -Wall -g -c -O2 -pg appointment.cpp
+
+calendar.o : calendar.cpp year.h 
+	g++ -ansi -Wall -g -c -O2 -pg calendar.cpp
+
+dayofweek.o : dayofweek.cpp dayofweek.h 
+	g++ -ansi -Wall -g -c -O2 -pg dayofweek.cpp
+
+time.o : time.cpp time.h 
+	g++ -ansi -Wall -g -c -O2 -pg time.cpp
+
+year.o : year.cpp year.h day.h 
+	g++ -ansi -Wall -g -c -O2 -pg year.cpp
+
+clean : 
+	rm -f appt1.out appointment.o  calendar.o  dayofweek.o  time.o  year.o   
